@@ -273,4 +273,6 @@ class MyActionListener2 implements ActionListener{
 	}
 	
 }
+## 运行结果截图
 ![image](https://github.com/agiaoguolifeng/Student-Class/blob/master/3.png)
+![image](https://github.com/agiaoguolifeng/Student-Class/blob/master/1.png)

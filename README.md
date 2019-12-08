@@ -273,3 +273,4 @@ class MyActionListener2 implements ActionListener{
 	}
 	
 }
+![image](https://github.com/agiaoguolifeng/JAVA/blob/master/1.PNG)

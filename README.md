@@ -277,3 +277,5 @@ class MyActionListener2 implements ActionListener{
 ![image](https://github.com/agiaoguolifeng/Student-Class/blob/master/3.png)
 ## 选课结束截图
 ![image](https://github.com/agiaoguolifeng/Student-Class/blob/master/1.png)
+## 实验心得
+该学生选课系统总体说来功能比较齐全，教师和学生的基本功能已经具备 教师的编号姓名性别还有所授课程都能完整的表现 学生的编号、性别、姓名、所选课程、所选课程时间、地点都能完整的表示，但是在实验过程中还是出现了一些问题，GUI课程我不是很熟练 ，表达起来的方法可能略显粗糙，表达也比较的模糊、只能说初步的完成了学生的选课实验、编写过程中，我对frame的编写也比较的简单，所以虽然完成了整体的实验、但是还设有很多的不足，JAVA这门课博大精深，我还需要更多的学习才能完整的表达好我想要表达的JAVA内容，以前我学的数据库内容我之前也想加入，但是表与表之间的内容太模糊了，但是总而言之，这次的实验让我收获良多，希望可以跟着老师更加的好好学习！
